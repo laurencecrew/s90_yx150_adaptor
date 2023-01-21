@@ -21,7 +21,7 @@ There is also an adaptor bracket to join the original foot peg assembly to the m
 
 ## Frame modifications
 
-In my case the S90 frame was unmodified except for a small cutaway (half of a 10mm round) to clear one of the screw bosses on the motor.
+In my case the S90 frame was unmodified except for a small cutaway (half of a 12mm round) to clear one of the screw bosses on the motor. This corresponds with the 12mm diameter cutaway on the right hand side plate.
 
 ## Improvements
 
