@@ -1,6 +1,6 @@
 "# s90_yx150_adaptor" 
 
-** Adaptor brackets for 196x Honda S90 frame to YX-150 or similar engine
+# Adaptor brackets for 196x Honda S90 frame to YX-150 or similar engine
 
 Please see Solidworks files for full details of the assembly. I have not included drawings of the various mounting tubes except in the Solidworks files.
 
